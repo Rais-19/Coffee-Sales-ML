@@ -98,6 +98,15 @@ Automatic lag & rolling feature computation using stored history
 
 Time-series models (ARIMA, XGBoost, LSTM)
 
+## Related Work
+
+The exploratory data analysis, feature engineering, and statistical insights
+that informed this model are documented in a separate repository:
+
+➡️ **Coffee Sales EDA & Analysis**  
+https://github.com/Rais-19/Coffee-Sales
+
+
 Multi-store forecasting dashboard
 
 Model retraining pipeline
