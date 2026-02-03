@@ -1,9 +1,15 @@
 # Coffee Sales Revenue Prediction API :
 
-Live Demo (Render):  
-https://coffee-sales-ml.onrender.com
-API Documentation (Swagger):  
-https://coffee-sales-ml.onrender.com/docs
+## Live App
+
+**Interactive Demo (Streamlit UI)**  
+➜ https://coffee-sales-ml-frontend-api.onrender.com
+Predict daily coffee shop revenue with a simple form.
+
+**API Endpoint (FastAPI backend)**  
+➜ https://coffee-sales-ml.onrender.com  
+- OpenAPI docs: https://coffee-sales-ml.onrender.com/docs
+- Health check: https://coffee-sales-ml.onrender.com
 
 # Coffee Sales Revenue Prediction
 Project Overview
