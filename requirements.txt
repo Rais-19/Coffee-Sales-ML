@@ -1,0 +1,11 @@
+
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+python-dotenv
+requests

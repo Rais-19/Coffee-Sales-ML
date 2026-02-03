@@ -1,0 +1,25 @@
+{
+  "model_info": {
+    "model_name": "Linear Regression",
+    "train_samples": 450,
+    "test_samples": 93,
+    "n_features": 12
+  },
+  "residual_statistics": {
+    "train_residual_std": 48.70308404137125,
+    "train_residual_mean": -4.26957234998958e-13,
+    "test_residual_std": 100.05159923086079,
+    "test_residual_mean": 8.436255136498609
+  },
+  "error_metrics": {
+    "train_mse": 2371.990395140872,
+    "test_mse": 10081.492909380882,
+    "train_rmse": 48.70308404137126,
+    "test_rmse": 100.40663777550209
+  },
+  "confidence_interval_info": {
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "description": "95% confidence intervals using \u00b11.96 * prediction_std_error"
+  }
+}

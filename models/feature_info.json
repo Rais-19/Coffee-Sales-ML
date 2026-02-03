@@ -1,0 +1,47 @@
+{
+  "model_name": "Linear Regression",
+  "model_type": "sklearn.linear_model.LinearRegression",
+  "feature_names": [
+    "transaction_qty",
+    "unit_price",
+    "month",
+    "day",
+    "day_of_week",
+    "is_weekend",
+    "revenue_lag1",
+    "revenue_lag7",
+    "revenue_rolling3",
+    "revenue_rolling7",
+    "store_location_Hell's Kitchen",
+    "store_location_Lower Manhattan"
+  ],
+  "n_features": 12,
+  "metrics": {
+    "r2_score": 0.879426281715681,
+    "mae": 42.8132275159718,
+    "rmse": 100.40663777550209
+  },
+  "training_info": {
+    "train_samples": 450,
+    "test_samples": 93,
+    "total_samples": 543,
+    "train_date_range": "2023-01-01 00:00:00 to 2023-05-30 00:00:00",
+    "test_date_range": "2023-05-31 00:00:00 to 2023-06-30 00:00:00"
+  },
+  "coefficients": {
+    "transaction_qty": 2.935664878282658,
+    "unit_price": 254.95973898145647,
+    "month": 4.41012382771702,
+    "day": -0.9070958838442524,
+    "day_of_week": -2.52944323574101,
+    "is_weekend": 7.669219690340479,
+    "revenue_lag1": 0.014960916883083542,
+    "revenue_lag7": 0.010402127568937658,
+    "revenue_rolling3": 0.056430785839296504,
+    "revenue_rolling7": -0.006392002091615723,
+    "store_location_Hell's Kitchen": 6.225101546245273,
+    "store_location_Lower Manhattan": -16.092087125391007
+  },
+  "intercept": -823.6645523089442,
+  "created_date": "2026-02-02 16:26:00"
+}
