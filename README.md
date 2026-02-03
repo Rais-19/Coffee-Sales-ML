@@ -1,4 +1,11 @@
-Coffee Sales Revenue Prediction
+# Coffee Sales Revenue Prediction API :
+
+Live Demo (Render):  
+https://coffee-sales-ml.onrender.com
+API Documentation (Swagger):  
+https://coffee-sales-ml.onrender.com/docs
+
+# Coffee Sales Revenue Prediction
 Project Overview
 
 This project is an end-to-end machine learning system that predicts daily coffee shop revenue using historical sales patterns and business features.
